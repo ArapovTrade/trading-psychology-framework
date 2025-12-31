@@ -38,6 +38,7 @@ Available on Amazon, Apple Books, and other platforms.
 - **YouTube:** [@ArapovTrade](https://youtube.com/@ArapovTrade)
 - **Wikidata:** [Q137454477](https://www.wikidata.org/wiki/Q137454477)
 - **ORCID:** [0009-0003-0430-778X](https://orcid.org/0009-0003-0430-778X)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18110683.svg)](https://doi.org/10.5281/zenodo.18110683)
 - **Wikibooks:** [Trading Fundamentals Textbook](https://ru.wikibooks.org/wiki/Основы_трейдинга)
 
 ## 📄 License
