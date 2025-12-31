@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+type: software
+title: "Trading Psychology Framework"
+authors:
+  - family-names: "Arapov"
+    given-names: "Igor"
+    orcid: "https://orcid.org/0009-0003-0430-778X"
+version: "1.0.2"
+date-released: "2025-12-31"
+url: "https://github.com/ArapovTrade/trading-psychology-framework"
+repository-code: "https://github.com/ArapovTrade/trading-psychology-framework"
+license: MIT
+doi: "10.5281/zenodo.18110683"
+keywords:
+  - trading
+  - psychology
+  - checklist
+  - risk management
+  - Wyckoff Method
+abstract: "Trading checklists, psychological frameworks, and practical tools based on 10+ years of professional trading experience."
