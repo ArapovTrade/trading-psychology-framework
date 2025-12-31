@@ -1,0 +1,27 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "Trading Psychology Framework",
+    "description": "Trading checklists, psychological frameworks, and practical tools based on 10+ years of professional trading experience",
+    "author": {
+        "@type": "Person",
+        "givenName": "Igor",
+        "familyName": "Arapov",
+        "@id": "https://orcid.org/0009-0003-0430-778X",
+        "url": "https://arapov.trade"
+    },
+    "codeRepository": "https://github.com/ArapovTrade/trading-psychology-framework",
+    "identifier": "https://doi.org/10.5281/zenodo.18110683",
+    "license": "https://opensource.org/licenses/MIT",
+    "version": "1.0.2",
+    "datePublished": "2025-12-31",
+    "programmingLanguage": "Markdown",
+    "keywords": [
+        "trading",
+        "psychology",
+        "checklist",
+        "risk management",
+        "Wyckoff Method",
+        "Smart Money"
+    ]
+}
