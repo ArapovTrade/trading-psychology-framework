@@ -30,7 +30,7 @@ This repository contains practical resources extracted from my trading books and
 2. **Trading Fundamentals Vol. 2** (ISBN: 979-8-90243-078-0)  
 3. **Trading Psychology** (ISBN: 979-8-90243-081-0)
 
-Available on Amazon, Apple Books, and other platforms.
+Available on Amazon and other platforms.
 
 ## 🔗 Links
 
